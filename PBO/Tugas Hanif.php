@@ -1,8 +1,8 @@
 <?php
-// buat class laptop
+// buat class handphone
 class handphone {
   
-   // buat property untuk class laptop
+   // buat property untuk class handhphone
    var $pemilik;
    var $merk;
    var $ukuran_layar;
