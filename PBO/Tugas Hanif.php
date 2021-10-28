@@ -16,7 +16,7 @@ class handphone {
    }
 }
   
-// buat objek dari class laptop (instansiasi)
+// buat objek dari class handhphone (instansiasi)
 $handphone_hanif = new handphone();
   
 // set property
